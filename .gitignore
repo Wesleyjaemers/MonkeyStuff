@@ -8,6 +8,3 @@ gradlew*
 gradle/
 .gradle/
 build/
-
-#travis
-.travis.yml
